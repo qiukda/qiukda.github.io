@@ -6,7 +6,16 @@
     <description>Recent content on Even - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 15 Jan 2022 15:23:00 +0800</lastBuildDate><atom:link href="http://qiukaida.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Jan 2022 16:09:27 +0800</lastBuildDate><atom:link href="http://qiukaida.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BPF开发环境搭建</title>
+      <link>http://qiukaida.github.io/post/bpf%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/</link>
+      <pubDate>Sat, 15 Jan 2022 16:09:27 +0800</pubDate>
+      
+      <guid>http://qiukaida.github.io/post/bpf%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/</guid>
+      <description>视频链接：https://www.bilibili.com/video/BV1f54y1h74r 准备Linux内核 以Ubuntu系统为例，查</description>
+    </item>
+    
     <item>
       <title>Windows环境使用hugo搭建Github博客</title>
       <link>http://qiukaida.github.io/post/windows%E7%8E%AF%E5%A2%83%E4%BD%BF%E7%94%A8hugo%E6%90%AD%E5%BB%BAgithub%E5%8D%9A%E5%AE%A2/</link>

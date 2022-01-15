@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BPF on Even - A super concise theme for Hugo</title>
+    <link>http://qiukaida.github.io/tags/bpf/</link>
+    <description>Recent content in BPF on Even - A super concise theme for Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 15 Jan 2022 16:09:27 +0800</lastBuildDate><atom:link href="http://qiukaida.github.io/tags/bpf/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BPF开发环境搭建</title>
+      <link>http://qiukaida.github.io/post/bpf%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/</link>
+      <pubDate>Sat, 15 Jan 2022 16:09:27 +0800</pubDate>
+      
+      <guid>http://qiukaida.github.io/post/bpf%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/</guid>
+      <description>视频链接：https://www.bilibili.com/video/BV1f54y1h74r 准备Linux内核 以Ubuntu系统为例，查</description>
+    </item>
+    
+  </channel>
+</rss>
