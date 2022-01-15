@@ -5,16 +5,6 @@
     <link>http://qiukaida.github.io/tags/</link>
     <description>Recent content in Tags on Even - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Sat, 15 Jan 2022 14:14:19 +0800</lastBuildDate><atom:link href="http://qiukaida.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>cpp</title>
-      <link>http://qiukaida.github.io/tags/cpp/</link>
-      <pubDate>Sat, 15 Jan 2022 14:14:19 +0800</pubDate>
-      
-      <guid>http://qiukaida.github.io/tags/cpp/</guid>
-      <description></description>
-    </item>
-    
+    <language>en</language><atom:link href="http://qiukaida.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
